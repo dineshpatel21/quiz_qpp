@@ -12,7 +12,7 @@ const Footer = () => {
     href="https://www.linkedin.com/in/gulshan-kathare-49945b213/"
     style={{ cursor: "pointer" }}
   >
-   <h3>Gulshan Kathare</h3>
+   <h3>Dinesh Patel</h3>
   </a>
 </div>;
 };
